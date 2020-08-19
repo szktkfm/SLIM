@@ -7,5 +7,5 @@ using sklearn.linear_model.ElasticNet
 Amazon Dataset Luxury 5core
 
 ## todo
-大規模データでは動かないのでscipy.spase_matrixを使えるように
-elastic netを自分で実装
+- 大規模データでは動かないのでscipy.spase_matrixを使えるように
+- elastic netを自分で実装
